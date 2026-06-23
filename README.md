@@ -16,7 +16,7 @@ This is the story of what that boundary is, why it matters, and what it predicts
 
 ### The Pattern That Appeared Everywhere at Once
 
-In 2025, six independent research groups published frameworks that seemed completely unrelated:
+In 2026, six independent research groups published frameworks that seemed completely unrelated:
 
 - **ERIE-LIGHT**: The photon is made of pairs of neutrinos. (Wait, what? Physicists thought that was debunked in 1938.)
 - **FISHER-STATES**: Entanglement falls into exactly six types, governed by a single mathematical rule.
